@@ -1,0 +1,24 @@
+.profile-image{
+    border-radius: 100%;
+    max-width: 40px;
+}
+
+.profileImgSm{
+    border-radius: 100%;
+    max-width: 20px;
+}
+
+.profileImageList{
+    border-radius: 100%;
+    max-width: 60px;
+    border: 2px solid #f00;
+    padding: 2px;
+}
+
+.instaLogo{
+    max-width: 100px;
+}
+
+.bodyWrap {
+    margin-top: 80px;
+}
